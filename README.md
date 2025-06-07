@@ -1,0 +1,2 @@
+# pizzaCalculator
+An individual project
